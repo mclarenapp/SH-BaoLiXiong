@@ -1,0 +1,12 @@
+JsonpData({
+    "lines":[
+        {
+            "title":"*暴力熊-推荐线路-首选",
+            "host":"http://blx1.dian668.com"
+        },
+        {
+            "title":"*暴力熊-临时线路-备用",
+            "host":"http://122.228.8.80:222"
+        }
+]
+})
